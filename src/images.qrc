@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/magnifyingGlass.png</file>
+        <file>images/green.png</file>
+        <file>images/greenHovered.png</file>
+        <file>images/greenInHovered.png</file>
+        <file>images/red.png</file>
+        <file>images/redHovered.png</file>
+        <file>images/redPressed.png</file>
+        <file>images/unfocusedButton.png</file>
+        <file>images/yellow.png</file>
+        <file>images/yellowHovered.png</file>
+        <file>images/yellowPressed.png</file>
+        <file>images/greenPressed.png</file>
+        <file>images/greenInPressed.png</file>
+        <file>images/newNote_Regular.png</file>
+        <file>images/newNote_Pressed.png</file>
+        <file>images/newNote_Hovered.png</file>
+        <file>images/trashCan_Regular.png</file>
+        <file>images/trashCan_Pressed.png</file>
+        <file>images/trashCan_Hovered.png</file>
+        <file>images/closeButton.png</file>
+        <file>images/3dots_Regular.png</file>
+        <file>images/3dots_Pressed.png</file>
+        <file>images/3dots_Hovered.png</file>
+        <file>images/notes_system_tray_icon.png</file>
+        <file>images/textEdit_background_pattern.png</file>
+        <file>images/windows_close_hovered.png</file>
+        <file>images/windows_close_pressed.png</file>
+        <file>images/windows_close_regular.png</file>
+        <file>images/windows_de-maximize_hovered.png</file>
+        <file>images/windows_de-maximize_pressed.png</file>
+        <file>images/windows_de-maximize_regular.png</file>
+        <file>images/windows_maximize_hovered.png</file>
+        <file>images/windows_maximize_pressed.png</file>
+        <file>images/windows_maximize_regular.png</file>
+        <file>images/windows_minimize_hovered.png</file>
+        <file>images/windows_minimize_pressed.png</file>
+        <file>images/windows_minimize_regular.png</file>
+    </qresource>
+</RCC>

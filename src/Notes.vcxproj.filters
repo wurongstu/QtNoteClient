@@ -1,0 +1,353 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\3rdParty\QSimpleUpdater\src\Downloader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\3rdParty\QSimpleUpdater\src\QSimpleUpdater.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\3rdParty\QSimpleUpdater\src\Updater.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="dbmanager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mainwindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\3rdParty\qmarkdowntextedit\markdownhighlighter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="notedata.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="notemodel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="noteview.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="notewidgetdelegate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\3rdParty\qautostart\src\qautostart.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\3rdParty\qmarkdowntextedit\qmarkdowntextedit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\3rdParty\qmarkdowntextedit\qownlanguagedata.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\3rdParty\qmarkdowntextedit\qplaintexteditsearchwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\3rdParty\qxt\qxtglobal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\3rdParty\qxt\qxtglobalshortcut.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\3rdParty\qxt\qxtglobalshortcut_win.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="singleinstance.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="updaterwindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="..\3rdParty\QSimpleUpdater\src\Downloader.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="..\3rdParty\QSimpleUpdater\include\QSimpleUpdater.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="..\3rdParty\QSimpleUpdater\src\Updater.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="dbmanager.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="mainwindow.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="..\3rdParty\qmarkdowntextedit\markdownhighlighter.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="notedata.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <ClInclude Include="notemodel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <QtMoc Include="noteview.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="notewidgetdelegate.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="..\3rdParty\qautostart\src\qautostart.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="..\3rdParty\qmarkdowntextedit\qmarkdowntextedit.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <ClInclude Include="..\3rdParty\qmarkdowntextedit\qownlanguagedata.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <QtMoc Include="..\3rdParty\qmarkdowntextedit\qplaintexteditsearchwidget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <ClInclude Include="..\3rdParty\qxt\qxtglobal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <QtMoc Include="..\3rdParty\qxt\qxtglobalshortcut.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <ClInclude Include="..\3rdParty\qxt\qxtglobalshortcut_p.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <QtMoc Include="singleinstance.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="updaterwindow.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="moc\moc_predefs.h.cbt">
+      <Filter>Generated Files</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <QtUic Include="..\3rdParty\QSimpleUpdater\src\Downloader.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="mainwindow.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="..\3rdParty\qmarkdowntextedit\qplaintexteditsearchwidget.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="updaterwindow.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\3dots_Hovered.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\3dots_Pressed.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\3dots_Regular.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="fonts\arimo\Arimo-Regular.ttf">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="fonts\roboto-hinted\Roboto-Bold.ttf">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="fonts\roboto-hinted\Roboto-Medium.ttf">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="fonts\roboto-hinted\Roboto-Regular.ttf">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\closeButton.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\3rdParty\qmarkdowntextedit\media\edit-find-replace.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <QtRcc Include="fonts.qrc">
+      <Filter>Resource Files</Filter>
+    </QtRcc>
+    <None Include="..\3rdParty\qmarkdowntextedit\media\format-text-superscript.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\3rdParty\qmarkdowntextedit\media\go-bottom.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\3rdParty\qmarkdowntextedit\media\go-top.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\green.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\greenHovered.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\greenInHovered.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\greenInPressed.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\greenPressed.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <QtRcc Include="images.qrc">
+      <Filter>Resource Files</Filter>
+    </QtRcc>
+    <None Include="images\magnifyingGlass.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <QtRcc Include="..\3rdParty\qmarkdowntextedit\media.qrc">
+      <Filter>Resource Files</Filter>
+    </QtRcc>
+    <None Include="images\newNote_Hovered.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\newNote_Pressed.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\newNote_Regular.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\notes_system_tray_icon.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <QtRcc Include="..\3rdParty\QSimpleUpdater\etc\resources\qsimpleupdater.qrc">
+      <Filter>Resource Files</Filter>
+    </QtRcc>
+    <None Include="images\red.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\redHovered.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\redPressed.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="styles\style.css">
+      <Filter>Resource Files</Filter>
+    </None>
+    <QtRcc Include="styles.qrc">
+      <Filter>Resource Files</Filter>
+    </QtRcc>
+    <None Include="images\textEdit_background_pattern.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\trashCan_Hovered.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\trashCan_Pressed.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\trashCan_Regular.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\unfocusedButton.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\3rdParty\QSimpleUpdater\etc\resources\update.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\3rdParty\qmarkdowntextedit\media\window-close.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\windows_close_hovered.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\windows_close_pressed.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\windows_close_regular.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\windows_de-maximize_hovered.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\windows_de-maximize_pressed.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\windows_de-maximize_regular.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\windows_maximize_hovered.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\windows_maximize_pressed.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\windows_maximize_regular.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\windows_minimize_hovered.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\windows_minimize_pressed.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\windows_minimize_regular.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\yellow.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\yellowHovered.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\yellowPressed.png">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include=".\images\notes.rc" />
+  </ItemGroup>
+</Project>
